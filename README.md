@@ -6,8 +6,7 @@ A sleek and modern button component designed using HTML and CSS. This project sh
 ## Demo
 
 ![Modern Button Demo](demo.gif)
-
-*Note: Replace `demo.gif` with an actual demonstration image or GIF showcasing the button's appearance and hover effect.*
+ 
 
  
 
